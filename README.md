@@ -12,13 +12,14 @@ You can install Conda for python which resolves all the dependencies for machine
 **Here are some important libraries:**
 
 
-import pandas as pd
+```python import pandas as pd
 
 import numpy as np
 
 from sklearn.feature_extraction.text import CountVectorizer
 
 from sklearn.metrics.pairwise import cosine_similarity
+```
 
 
 ### DataSet
